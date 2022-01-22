@@ -1,0 +1,18 @@
+Fri Jan 21 2022 22:10:13 GMT-0300 (Horário Padrão de Brasília)
+Fri Jan 21 2022 22:12:17 GMT-0300 (Horário Padrão de Brasília)
+Fri Jan 21 2022 22:12:40 GMT-0300 (Horário Padrão de Brasília)
+Fri Jan 21 2022 22:12:40 GMT-0300 (Horário Padrão de Brasília)
+Fri Jan 21 2022 22:12:40 GMT-0300 (Horário Padrão de Brasília)
+Fri Jan 21 2022 22:12:40 GMT-0300 (Horário Padrão de Brasília)
+Fri Jan 21 2022 22:12:40 GMT-0300 (Horário Padrão de Brasília)
+Fri Jan 21 2022 22:12:40 GMT-0300 (Horário Padrão de Brasília)
+Fri Jan 21 2022 22:13:09 GMT-0300 (Horário Padrão de Brasília)
+Fri Jan 21 2022 22:13:09 GMT-0300 (Horário Padrão de Brasília)
+Fri Jan 21 2022 22:13:09 GMT-0300 (Horário Padrão de Brasília)
+function getDate() { [native code] } function getTime() { [native code] }
+21 1642814221205
+2022-01-22 01:20:28
+21/01/2022 22:23:13
+21/01/2022 22:37:05 GET /user/1
+21/01/2022 22:37:34 GET /user/1
+21/01/2022 22:41:12 GET http://localhost:3000/user/1
